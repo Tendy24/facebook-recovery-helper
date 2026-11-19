@@ -23,6 +23,10 @@ A static, dependency-free helper page that guides users to the official Facebook
 
 Open `index.html` in a browser.
 
+## Release Process
+
+Use `RELEASE_CHECKLIST.md` for the step-by-step publish workflow (content updates, QA, Git push, and Netlify verification).
+
 ## Deploy
 
 This project is static and can be deployed directly to GitHub Pages, Netlify, or Vercel.
