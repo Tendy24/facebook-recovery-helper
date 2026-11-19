@@ -1,0 +1,92 @@
+<!doctype html>
+<html lang="en" data-theme="dark">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="Safe helper page that directs users to official Facebook account recovery" />
+    <title>Facebook Recovery Helper</title>
+    <link rel="stylesheet" href="styles.css" />
+</head>
+
+<body>
+    <header>
+        <div>
+            <h1>Facebook Recovery Helper</h1>
+            <p class="meta-line">
+                <span class="badge">v1.0.0</span>
+                <span id="last-updated">Last updated: 2026-11-19</span>
+            </p>
+        </div>
+
+        <nav aria-label="Main navigation">
+            <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="primary-nav">
+                Menu
+            </button>
+            <div class="nav-links" id="primary-nav">
+                <a href="#home">Start</a>
+                <a href="#official">Official link</a>
+                <a href="#safety">Safety tips</a>
+                <a href="#report">Report page</a>
+                <button id="theme-toggle" class="ghost-btn theme-toggle" type="button" aria-label="Toggle theme">
+                    Toggle theme
+                </button>
+            </div>
+        </nav>
+    </header>
+
+    <main id="home">
+        <section id="official">
+            <span class="badge">Official path</span>
+            <h2>Use Facebook’s real recovery page</h2>
+            <p>
+                This page does not collect passwords, codes, cookies, or tokens. Use the official Facebook
+                account recovery flow directly.
+            </p>
+
+            <div class="cta-row">
+                <a class="cta" href="https://www.facebook.com/recover/" target="_blank" rel="noopener noreferrer">
+                    Continue to facebook.com/recover
+                </a>
+                <button class="ghost-btn" type="button" id="copy-official-link">Copy official link</button>
+            </div>
+            <p class="copy-feedback" id="copy-feedback" aria-live="polite"></p>
+        </section>
+
+        <section id="safety">
+            <span class="badge">Stay secure</span>
+            <h2>Before you continue</h2>
+            <ul>
+                <li>Check the domain is exactly <strong>facebook.com</strong> before entering credentials.</li>
+                <li>Never share one-time codes, cookies, or recovery tokens with anyone.</li>
+                <li>If recovery fails, verify email/phone access and check spam/junk folders.</li>
+            </ul>
+            <p class="warning">
+                If a site asks for your Facebook password outside official Facebook pages, stop immediately.
+            </p>
+        </section>
+
+        <section id="report">
+            <span class="badge">Report suspicious pages</span>
+            <h2>Think a page is fake?</h2>
+            <ul>
+                <li>Leave the page immediately and do not enter credentials.</li>
+                <li>Report phishing at <strong>facebook.com/hacked</strong> or via Help Center links.</li>
+                <li>Change your password from official settings if you entered info by mistake.</li>
+            </ul>
+            <p class="tip">Tip: bookmark official recovery links so you can verify them quickly next time.</p>
+        </section>
+    </main>
+
+    <footer>
+        <small>&copy; 2026 Recovery Helper (official-link only)</small>
+        <p class="footer-note">
+            Not affiliated with Meta or Facebook. Report contact link is temporarily disabled until a
+            dedicated support channel is configured.
+        </p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+
+</html>
