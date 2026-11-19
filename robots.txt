@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://facebook-recovery-helper.netlify.app/sitemap.xml
+Sitemap: https://zippy-pony-6968b0.netlify.app/sitemap.xml
