@@ -40,7 +40,7 @@ This project is static and can be deployed directly to GitHub Pages, Netlify, or
 
 Live deployment URL:
 
-- `https://zippy-pony-6968b0.netlify.app/`
+- `https://facebook-recovery-helper.netlify.app/`
 
 Already updated to this URL:
 
