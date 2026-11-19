@@ -53,6 +53,11 @@ This UI does **not** collect credentials or tokens. It only links users to offic
 
 ## Changelog
 
+### v1.0.3 - 2026-11-19
+
+- Bumped visible UI version badges in `index.html` and `404.html`.
+- Verification commit to confirm Netlify auto-deploy from `main`.
+
 ### v1.0.2 - 2026-11-19
 
 - Removed placeholder support `mailto:` links from footers.
