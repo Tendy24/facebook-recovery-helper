@@ -1,4 +1,6 @@
 User-agent: *
 Allow: /
 
+# Live marker: updated 2026-11-20
+
 Sitemap: https://zippy-pony-6968b0.netlify.app/sitemap.xml
