@@ -57,6 +57,11 @@ This UI does **not** collect credentials or tokens. It only links users to offic
 
 ## Changelog
 
+### v1.0.4 - 2026-11-20
+
+- Deployment verification release.
+- Confirmed live endpoints (`/`, `/404.html`, `/robots.txt`, `/sitemap.xml`) are current.
+
 ### v1.0.3 - 2026-11-19
 
 - Bumped visible UI version badges in `index.html` and `404.html`.
