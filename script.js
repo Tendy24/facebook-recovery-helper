@@ -6,7 +6,7 @@ const copyFeedback = document.getElementById('copy-feedback');
 const themeToggle = document.getElementById('theme-toggle');
 const root = document.documentElement;
 
-const OFFICIAL_RECOVERY_URL = 'https://www.facebook.com/recover/';
+const OFFICIAL_RECOVERY_URL = 'https://www.facebook.com/recover/initiate/';
 const THEME_STORAGE_KEY = 'recovery-helper-theme';
 
 const closeMenu = () => {

@@ -4,7 +4,7 @@ A static, dependency-free helper page that guides users to the official Facebook
 
 ## Features
 
-- Official recovery CTA (`https://www.facebook.com/recover/`)
+- Official recovery CTA (`https://www.facebook.com/recover/initiate/`)
 - Copy-official-link helper with user feedback
 - Suspicious-page reporting guidance
 - Responsive navigation menu
