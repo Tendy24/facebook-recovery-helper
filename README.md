@@ -46,6 +46,13 @@ Live deployment URL:
 
 - `https://zippy-pony-6968b0.netlify.app/`
 
+Last deployment verification: **2026-11-20**
+
+- `https://zippy-pony-6968b0.netlify.app/`
+- `https://zippy-pony-6968b0.netlify.app/404.html`
+- `https://zippy-pony-6968b0.netlify.app/robots.txt`
+- `https://zippy-pony-6968b0.netlify.app/sitemap.xml`
+
 Already updated to this URL:
 
 - `sitemap.xml`
