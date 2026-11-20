@@ -64,6 +64,12 @@ This UI does **not** collect credentials or tokens. It only links users to offic
 
 ## Changelog
 
+### v1.0.5 - 2026-11-20
+
+- Switched official recovery links from `/recover/` to `/recover/initiate/` to avoid unavailable-page errors.
+- Added mobile-compatible quick-note PNG and linked it from the homepage.
+- Removed Search Console verification artifacts for Netlify-only operation.
+
 ### v1.0.4 - 2026-11-20
 
 - Deployment verification release.
