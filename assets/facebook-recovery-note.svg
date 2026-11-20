@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1920" viewBox="0 0 1080 1920" role="img" aria-labelledby="title desc">
+  <title id="title">Facebook Recovery Quick Note</title>
+  <desc id="desc">One-screen checklist for Facebook account recovery and fallback steps.</desc>
+
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#1e293b"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1080" height="1920" fill="url(#bg)"/>
+
+  <g font-family="Inter, Segoe UI, Arial, sans-serif" fill="#e2e8f0">
+    <text x="80" y="140" font-size="64" font-weight="700" fill="#f8fafc">Facebook Recovery</text>
+    <text x="80" y="205" font-size="38" fill="#93c5fd">Quick phone checklist</text>
+
+    <rect x="70" y="260" width="940" height="1020" rx="28" fill="#0b1220" stroke="#334155"/>
+
+    <text x="110" y="335" font-size="40" font-weight="700" fill="#f8fafc">Do this first:</text>
+
+    <text x="110" y="410" font-size="34">1) Open facebook.com/login</text>
+    <text x="110" y="470" font-size="34">2) Tap “Forgot password?”</text>
+    <text x="110" y="530" font-size="34">3) Enter email/phone</text>
+    <text x="110" y="590" font-size="34">4) Enter code from SMS/email</text>
+    <text x="110" y="650" font-size="34">5) Set a new strong password</text>
+    <text x="110" y="710" font-size="34">6) Turn on 2FA after login</text>
+
+    <text x="110" y="820" font-size="40" font-weight="700" fill="#f8fafc">If it fails:</text>
+
+    <text x="110" y="885" font-size="31" fill="#cbd5e1">• facebook.com/recover/initiate/</text>
+    <text x="110" y="940" font-size="31" fill="#cbd5e1">• Check spam/junk for recovery email</text>
+    <text x="110" y="995" font-size="31" fill="#cbd5e1">• Try old emails/phone numbers</text>
+    <text x="110" y="1050" font-size="31" fill="#cbd5e1">• Use familiar device/location</text>
+    <text x="110" y="1105" font-size="31" fill="#cbd5e1">• If hacked: facebook.com/hacked</text>
+
+    <rect x="70" y="1335" width="940" height="260" rx="24" fill="#111827" stroke="#334155"/>
+    <text x="110" y="1410" font-size="34" font-weight="700" fill="#f8fafc">Safety tips</text>
+    <text x="110" y="1470" font-size="30" fill="#cbd5e1">• Only enter passwords on facebook.com</text>
+    <text x="110" y="1520" font-size="30" fill="#cbd5e1">• Never share one-time codes</text>
+    <text x="110" y="1570" font-size="30" fill="#cbd5e1">• Update password manager too</text>
+
+    <text x="80" y="1830" font-size="24" fill="#94a3b8">Generated for quick mobile reference • 2026-11-20</text>
+  </g>
+</svg>
