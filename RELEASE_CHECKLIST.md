@@ -20,8 +20,8 @@ Use this checklist for every update to keep deploys consistent and easy.
 
 - [ ] Confirm `robots.txt` has correct sitemap URL.
 - [ ] Confirm `sitemap.xml` uses live Netlify domain:
-  - `https://zippy-pony-6968b0.netlify.app/`
-  - `https://zippy-pony-6968b0.netlify.app/404.html`
+  - `https://2-4-m.netlify.app/`
+  - `https://2-4-m.netlify.app/404.html`
 
 ## 4) Commit + push
 
@@ -34,10 +34,10 @@ Use this checklist for every update to keep deploys consistent and easy.
 
 - [ ] In Netlify, confirm latest deploy is **Published**.
 - [ ] Verify live URLs:
-  - [ ] `https://zippy-pony-6968b0.netlify.app/`
-  - [ ] `https://zippy-pony-6968b0.netlify.app/404.html`
-  - [ ] `https://zippy-pony-6968b0.netlify.app/robots.txt`
-  - [ ] `https://zippy-pony-6968b0.netlify.app/sitemap.xml`
+  - [ ] `https://2-4-m.netlify.app/`
+  - [ ] `https://2-4-m.netlify.app/404.html`
+  - [ ] `https://2-4-m.netlify.app/robots.txt`
+  - [ ] `https://2-4-m.netlify.app/sitemap.xml`
 
 ## 6) Optional post-release
 
