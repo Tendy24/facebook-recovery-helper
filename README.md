@@ -62,6 +62,14 @@ Already updated to this URL:
 
 This UI does **not** collect credentials or tokens. It only links users to official Facebook recovery endpoints.
 
+## Links
+
+- Live site: https://2-4-m.netlify.app/
+- Official Facebook recovery: https://www.facebook.com/recover/initiate/
+- Mobile quick-note (PNG): https://2-4-m.netlify.app/assets/facebook-recovery-note-compat.png
+- Copy-ready social post: [SOCIAL_POST.md](SOCIAL_POST.md)
+- GitHub repository: https://github.com/Tendy24/facebook-recovery-helper
+
 ## Changelog
 
 ### v1.0.5 - 2026-11-20
